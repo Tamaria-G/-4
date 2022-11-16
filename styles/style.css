@@ -113,10 +113,12 @@ nav li {
     font-size: 22px;
     color: #3D58A6;
     margin-top: 2px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .statia-h{
     font-size: 20px;
     margin-top: 17px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .statia-img{
     margin-top: 17px;
@@ -129,6 +131,8 @@ nav li {
     display: inline-block;
     vertical-align: top;
     margin-top: 17px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+    line-height: 19px;
 
 }
 .statia-p{
